@@ -14,6 +14,7 @@
 		6C089DCE22A4210D0013226B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C089DCC22A4210D0013226B /* LaunchScreen.storyboard */; };
 		6C089DD622A54C440013226B /* DesignableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C089DD522A54C440013226B /* DesignableButton.swift */; };
 		6C089DD822A54C5F0013226B /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C089DD722A54C5F0013226B /* Extensions.swift */; };
+		6CEAD53722A6F0BA003E8AA4 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CEAD53622A6F0BA003E8AA4 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6C089DCF22A4210D0013226B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C089DD522A54C440013226B /* DesignableButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignableButton.swift; sourceTree = "<group>"; };
 		6C089DD722A54C5F0013226B /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		6CEAD53622A6F0BA003E8AA4 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				6C089DC322A4210B0013226B /* AppDelegate.swift */,
 				6C089DC522A4210B0013226B /* OnboardingViewController.swift */,
 				6C089DC722A4210B0013226B /* Main.storyboard */,
+				6CEAD53622A6F0BA003E8AA4 /* LoginViewController.swift */,
 				6C089DD522A54C440013226B /* DesignableButton.swift */,
 				6C089DD722A54C5F0013226B /* Extensions.swift */,
 				6C089DCA22A4210D0013226B /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				6C089DC622A4210B0013226B /* OnboardingViewController.swift in Sources */,
 				6C089DC422A4210B0013226B /* AppDelegate.swift in Sources */,
 				6C089DD622A54C440013226B /* DesignableButton.swift in Sources */,
+				6CEAD53722A6F0BA003E8AA4 /* LoginViewController.swift in Sources */,
 				6C089DD822A54C5F0013226B /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
