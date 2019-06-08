@@ -10,6 +10,9 @@ import UIKit
 
 class OnboardingViewController: UIViewController {
 
+    @IBAction func ShowLogin(_ sender: DesignableButton) {
+        performSegue(withIdentifier: "login_segue", sender: nil)
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
